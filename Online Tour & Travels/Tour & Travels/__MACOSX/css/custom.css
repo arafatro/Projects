@@ -1,0 +1,23 @@
+.header-info h1 a{
+color:#00060c;
+}
+
+.header-info h2 a{
+color:#480a09;
+}
+
+.top-nav ul li a {
+    color: #1b242f;
+}
+
+.about-grids p {
+    color: #0d2d8c;
+}
+
+.tour-guides-head p {
+    color: #0d2d8c; 
+}
+
+.contact form input[type="text"],.contact textarea{
+	color:#7A7070;
+}

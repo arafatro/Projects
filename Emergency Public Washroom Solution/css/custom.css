@@ -1,0 +1,105 @@
+.header {
+    text-align: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+    background-color: #41535c;
+}
+
+.custom-h1 {
+	font-size: 4em;
+	color: #0fef31;
+	font-family: Courier;
+	font-weight : bold;
+}
+
+.banner-form {
+	margin-top: 0;
+}
+
+.banner-form p {
+    color: #f6f0f0;
+    }
+
+img {
+    vertical-align: top;
+}
+
+.pricing-plans p{
+	color: #110f0f;
+
+}
+
+.about-grid-info h3{
+	color: #ef1212;
+
+}
+
+.footer {
+	background: #41535c;
+
+}
+
+.about {
+    background-color: #44A8B4;
+}
+
+.service{
+	background-color: #13656f;
+
+}
+
+.logo h1 a {
+    color: #0fef31;
+}
+
+.service-info h3 {
+    color: #f6c539;
+}
+
+.service-info p {
+
+    color: #e6c2c2;
+}
+
+.pricing-plans p {
+
+    color: #e6c2c2;
+}
+
+.pic-info h5 {
+    color: #e0d83b;
+}
+.font{
+  font-weight : bold;
+}
+
+.pricing>.container{
+   margin-top:5%;
+}
+
+.contact>.container>h3{
+  padding-bottom:2%;
+}
+
+
+.about-grid-info h4 {
+    color: #0f0e0e;
+}
+
+.about-top p {
+    color: #0c0808;
+    }
+    
+.about-grid-info p {
+    color: #0c0808;
+}
+
+.contact form input[type="text"], .contact-right textarea {
+color: #000;
+}
+
+
+
+
+
